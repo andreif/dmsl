@@ -7,7 +7,6 @@ dmsl/bench/*
 *.pyo
 *.pyd
 *.so
-*.c
 *.swp
 MANIFEST
 dist/*
