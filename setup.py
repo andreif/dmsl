@@ -11,7 +11,7 @@ setup(
     url='http://dmsl.dasa.cc',
     license = "MIT License",
     packages = ["dmsl"],
-    requires = ["lxml", "cython"],
+    requires = ["lxml", "cython", "pyrex"],
     description='da Markup Language featuring html outlining via css-selectors, embedded python, and extensibility.',
     long_description = """\
 Features CSS selectors and indention for declaring page layout. Embed
